@@ -1,13 +1,54 @@
-### Goal: Preparing for interview in 2 months
+# 🚀 Interview Preparation Roadmap
 
-## Journey Expectations: Learn basics of Data structures , SQL, System Design while able to communicate my thoughts properly and having proper reasoning even if i know the problem or solution also how can i write documentation of that work
+## 📋 Overview
 
-## How: Daily Progress on learning, Weekly mock interview
+A structured 2-month plan to develop technical proficiency and communication skills for interviews.
 
-## Learning Resources: Codesignal for DS learning, Neetcode: Practice, SQL: Maybe Mode Analytics (Not sure)
+## 🎯 Goals
 
-## Outcome expectation: Sounding Good technically, Able to easify the problem such that recruiter can understand
+- Master Data Structures fundamentals
+- Develop SQL expertise
+- Learn System Design principles
+- Improve technical communication
+- Enhance problem-solving reasoning skills
+- Develop documentation capabilities
 
-## What's in Day 1:
+## 📈 Journey Structure
 
-# -> Focusing on Revisiting the python fundas from codesignal
+- **Daily:** Focused learning sessions on technical topics
+- **Weekly:** Mock interview practice to apply knowledge and refine communication
+- **Bi-weekly:** Progress review and roadmap adjustments
+
+## 📚 Learning Resources
+
+| Topic           | Primary Resource     | Supplementary Resources    |
+| --------------- | -------------------- | -------------------------- |
+| Data Structures | CodeSignal           | LeetCode, HackerRank       |
+| Algorithms      | NeetCode             | AlgoExpert, Interview Cake |
+| SQL             | Mode Analytics       | SQLZoo, LeetCode SQL       |
+| System Design   | System Design Primer | Grokking System Design     |
+
+## 📝 Success Metrics
+
+- Ability to break down complex problems clearly
+- Confident articulation of technical concepts
+- Structured approach to problem-solving
+- Clean, well-documented code
+- Thoughtful system design considerations
+
+## 📅 Day 1: Python Fundamentals Refresher
+
+- Review basic Python syntax and data types
+- Practice string manipulation and list operations
+- Implement common Python algorithms
+- Analyze time and space complexity of solutions
+
+## 📊 Progress Tracking
+
+- GitHub repository for all practice problems
+- Documentation templates for solutions
+- Interview feedback log
+
+---
+
+_"The expert in anything was once a beginner. The journey of a thousand miles begins with a single step."_
